@@ -70,7 +70,6 @@
 ## 📊 **GitHub Stats**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bakjava1&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bakjava1&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bakjava1&layout=compact&theme=tokyonight" />
 </p>
 
