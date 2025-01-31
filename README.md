@@ -77,13 +77,13 @@
 
 ## 🎯 **Let's Connect!**
 <p>
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
+  <a href="https://linkedin.com/in/dogankaraarslan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:tuwien@ciaorelated.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://your-website.com">
+  <a href="https://bakjava.com">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
