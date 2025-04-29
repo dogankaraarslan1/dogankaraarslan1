@@ -7,10 +7,9 @@
 
 ## 👨‍💻 **About Me**  
 - 🚀 Passionate about **Software Development, IT Consulting, and Innovation**  
-- 🎨 Creator of **BakJava**: making Java as delightful as baklava 🍯  
 - 🌱 Currently exploring **Cloud Computing & Software Architecture Trends**  
-- 💬 Ask me about **Java, Microservices, DevOps, and Agile Development**  
-- 📫 Reach me at **[Your Email / LinkedIn]**  
+- 💬 Ask me about **Java, DevOps, and Agile Development**  
+- 📫 Reach me at [LinkedIn](https://at.linkedin.com/in/dogankaraarslan) or email me at **[office@bakjava.com](mailto:office@bakjava.com)**
 
 ---
 
@@ -20,8 +19,7 @@
 ✅ **Requirements Engineering, Project Management, Innovation Management**  
 ✅ **Product Management, Business Process Modeling**  
 ✅ **IT-Consulting, Cloud Computing (Deployment & Architecture)**  
-✅ **Software Architecture & Design (Microservices, Layered Architectures)**  
-✅ **DevOps (CI/CD, Automation, Continuous Deployment)**  
+✅ **Software Architecture & Design**  
 ✅ **Agile Methods (Scrum, Kanban, Lean, XP)**  
 
 ---
@@ -53,7 +51,6 @@
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
   <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
 </p>
 
 ---
@@ -83,7 +80,7 @@
   <a href="https://linkedin.com/in/dogankaraarslan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:tuwien@ciaorelated.com">
+  <a href="mailto:office@bakjava.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://bakjava.com">
