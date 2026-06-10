@@ -66,9 +66,9 @@
 
 ## 📊 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bakjava1&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bakjava1&layout=compact&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bakjava1&repo=ERP-PROTOTYPE&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dogankaraarslan1&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dogankaraarslan1&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dogankaraarslan1&repo=ERP-PROTOTYPE&theme=radical" />
 
 
 </p>
